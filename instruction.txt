@@ -1,0 +1,12 @@
+Custom Yolov4 binary object detection model. (bottle and can)
+
+-- keep your test jpg file in folder 'image'
+-- now open the directory in cmd 
+-- write the code in command line to run the detection. 
+
+python new.py --image images/tb.jpg --yolo yolo-data
+
+
+code in the python file was collected from pyimagesearch.com 
+
+~Masbah Uddin Toha
